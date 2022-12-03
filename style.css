@@ -1,0 +1,50 @@
+*,
+html
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    min-height: 100vh;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+button {
+    border: none;
+    background-color: crimson;
+    font-size: 24px;
+    padding: 16px;
+    margin-left: 10px;
+    height: 65px;
+    color: #2222;
+}
+
+input {
+    background-color: #eaeaeae;
+    border: 0;
+    color: #22222;
+    padding: 16px;
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+button {
+    background-color: crimson;
+    color: white;
+
+}
