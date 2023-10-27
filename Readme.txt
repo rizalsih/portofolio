@@ -3,4 +3,4 @@ Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-templa
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 
-link : https://rizalsih.github.io/portofolio-rizalsih/
+link : https://rizalsih.github.io/portofolio/
